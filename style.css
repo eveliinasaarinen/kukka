@@ -1,0 +1,29 @@
+body {
+    /"text-align: center;"/ 
+    color: yellow;
+}
+
+
+h1{
+    font-size: 20px;
+}
+
+p{
+    font-size: 12px;
+    color: purple;
+}
+
+#divstyle{
+    border: dotted;
+    border-width: 2px;
+    width: 100px;
+    height: 100px;
+}
+ol{
+    list-style-type: lower-alpha;
+}
+
+ul{
+    list-style-type: square;
+}
+
