@@ -14,8 +14,8 @@ header {
     background: #e69952;
     color: white;
     font-size: 30px;
-    border-radius: 5%;
-    border-color: chartreuse;
+    border-style: dotted;
+    border-color: rgb(79, 80, 78);
   }
   nav {
       float: left;
