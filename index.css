@@ -1,0 +1,26 @@
+head {
+    text-align: center;
+}
+
+body {
+    color: rgb(197, 15, 121);
+}
+body {
+    background-color: #fadd3b;
+  }
+  
+  p {
+    border: 2px solid rgb(0, 174, 255);
+    border-radius: 5px;
+  }
+  
+}
+  h2 {
+    text-align: right;
+  }
+
+  p.dotted {
+      border-style: dotted;
+    }
+  
+  
