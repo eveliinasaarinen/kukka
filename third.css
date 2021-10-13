@@ -14,12 +14,13 @@ header {
     background: #e69952;
     color: white;
     font-size: 30px;
+    border-radius: 5%;
     border-color: chartreuse;
   }
   nav {
       float: left;
       width: 20%;
       height: 270px;
-      background-color: rgb(0, 0, 0);
+      background-color: rgb(255, 247, 136);
       padding: 20px;
 }
