@@ -32,6 +32,6 @@ article {
     border-style: dotted;
     border-color: black;
 }
-a {
+a:hover{
     color: chartreuse;
 }
