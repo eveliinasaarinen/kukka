@@ -24,3 +24,7 @@ header {
       background-color: rgb(255, 247, 136);
       padding: 20px;
 }
+article {
+    float: middle;
+    background-color: rgb(255, 197, 131);
+}
