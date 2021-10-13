@@ -7,7 +7,7 @@ h1{
 }
 body {
     background-color: #fcc2b0;
-  }
+}
 header {
     padding: 60px;
     text-align: center;
@@ -23,8 +23,15 @@ header {
       height: 270px;
       background-color: rgb(255, 247, 136);
       padding: 20px;
+      border-style: dotted;
+      border-color: black;
 }
 article {
     float: middle;
     background-color: rgb(255, 197, 131);
+    border-style: dotted;
+    border-color: black;
+}
+a {
+    color: chartreuse;
 }
