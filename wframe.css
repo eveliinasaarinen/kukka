@@ -10,6 +10,14 @@ nav {
     font-size: 22px;
     background-color: rgb(255, 182, 231);
 }
+article {
+    float: left;
+    padding: 20px;
+    width: 70%;
+    color: black;
+    background-color: #ffffff;
+    height: 300px;
+  }
 .footer {
     position: fixed;
     left: 0;
