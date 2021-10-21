@@ -5,10 +5,16 @@ header {
     font-style: oblique;
     color: darkmagenta;
 }
-div {
-    text-align: left;
-}
 nav {
     text-align: center;
     background-color: rgb(255, 182, 231);
+}
+div {
+    text-align: left;
+}
+article {
+    text-align: left;
+}
+section {
+    text-align: left;
 }
