@@ -11,6 +11,7 @@ nav {
     background-color: rgb(255, 182, 231);
 }
 article {
+    font-size: 20px;
     float: left;
     padding: 20px;
     width: 70%;
