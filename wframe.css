@@ -10,3 +10,12 @@ nav {
     font-size: 22px;
     background-color: rgb(255, 182, 231);
 }
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 199, 241);
+    color: rgb(0, 0, 0);
+    text-align: center;
+   }
