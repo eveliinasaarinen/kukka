@@ -1,4 +1,7 @@
-div {
+h1 {
     font-style: oblique;
     color: darkmagenta;
+}
+div {
+    color: rgb(0, 0, 0);
 }
