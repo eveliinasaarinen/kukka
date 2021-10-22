@@ -5,7 +5,7 @@ header {
     font-style: oblique;
     color: darkmagenta;
 }
-nav {
+li {
     text-align: center;
     font-size: 22px;
     background-color: rgb(255, 182, 231);
