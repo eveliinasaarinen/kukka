@@ -6,7 +6,6 @@ header {
     color: darkmagenta;
 }
 li {
-    position: fixed;
     text-align: center;
     font-size: 22px;
     background-color: rgb(255, 182, 231);
