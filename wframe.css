@@ -5,6 +5,9 @@ header {
     font-style: oblique;
     color: darkmagenta;
 }
+a:hover{
+  color: rgb(62, 7, 124);
+}
 li {
     text-align: center;
     font-size: 22px;
