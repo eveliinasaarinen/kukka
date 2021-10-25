@@ -48,3 +48,9 @@ ul {
     background: rgb(203, 253, 255);
     padding: 20px;
 }
+article {
+    float: right;
+    padding: 20px;
+    width: 70%;
+    background-color: #effcff;
+  }
