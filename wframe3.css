@@ -5,3 +5,33 @@ header {
     font-style: oblique;
     color: rgb(247, 161, 111);
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(253, 210, 169);
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color:rgb(243, 183, 93); 
+  }
+  
+  .active {
+    background-color: rgb(243, 191, 93);;
+  }
+  a:hover{
+    color: rgb(42, 153, 218);
+  }
