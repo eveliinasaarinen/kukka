@@ -54,3 +54,7 @@ article {
     width: 70%;
     background-color: #effcff;
   }
+img {
+    float: left;
+    size: 400px;
+}
