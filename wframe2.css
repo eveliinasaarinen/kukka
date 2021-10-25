@@ -56,4 +56,5 @@ article {
   }
   img, div.wrap {
     float: left;
+    size: 200px;
  }
