@@ -30,7 +30,7 @@ ul {
   }
   
   .active {
-    background-color: #ff92c5;
+    background-color: rgb(93, 213, 243);;
   }
   a:hover{
     color: rgb(62, 7, 124);
