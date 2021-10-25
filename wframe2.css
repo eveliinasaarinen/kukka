@@ -54,8 +54,3 @@ article {
     width: 70%;
     background-color: #effcff;
   }
-  section::after {
-    content: "";
-    display: table;
-    clear: both;
-  }
