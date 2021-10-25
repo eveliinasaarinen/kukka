@@ -54,3 +54,6 @@ article {
     width: 70%;
     background-color: #effcff;
   }
+  {
+    box-sizing: border-box;
+  }
