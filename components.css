@@ -5,3 +5,7 @@ header {
     color: black;
     font-size: 50px;
 }
+.navbar {
+    background-color: cadetblue;
+    overflow: hidden;
+}
