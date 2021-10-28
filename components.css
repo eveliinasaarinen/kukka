@@ -9,7 +9,7 @@ header {
     background-color: rgb(247, 252, 252);
     overflow: hidden;
 }
-.topnav a {
+.navbar-default {
     float: left;
     color: #f2f2f2;
     text-align: center;
