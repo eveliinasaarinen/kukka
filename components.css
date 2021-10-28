@@ -9,11 +9,3 @@ header {
     background-color: rgb(247, 252, 252);
     overflow: hidden;
 }
-.navbar-default {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
