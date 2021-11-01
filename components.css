@@ -11,5 +11,6 @@ header {
     color: coral;
 }
 img {
-    border-radius: 20%;
+    border-radius: 50%;
+    size: 200px;
   }
