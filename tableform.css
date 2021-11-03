@@ -10,3 +10,6 @@ table, th, td {
       background:rgb(174, 229, 231)
       
 }
+table {
+    width: 80;
+}

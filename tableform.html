@@ -81,3 +81,20 @@
 </form>
 
 <p>Paina nappia ja arviosi lähetetään.</p>
+
+<h1>The select required attribute</h1>
+
+<p>The required attribute specifies that the user is required to select a value before submitting the form:</p>
+
+<form action="/action_page.php">
+  <label for="karkit">VALITSE SUOSIKKISI:</label>
+  <select name="karkit" id="karkit" required>
+    <option value="Ei mikään"</option>
+    <option value="Suklaa">Volvo</option>
+    <option value="Dumle">Saab</option>
+    <option value="Marianne">Mercedes</option>
+    <option value="Kettukarkki">Audi</option>
+  </select>
+  <br><br>
+  <input type="submit" value="Lähetä">
+</form>
