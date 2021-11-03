@@ -13,4 +13,5 @@ header {
 img {
     border-radius: 50%;
     size: 350px;
+    float: center;
   }
