@@ -15,3 +15,7 @@ img {
     size: 350px;
     float: left;
   }
+  .column {
+      text-align: left;
+      color: rgb(134, 39, 153);
+   }
