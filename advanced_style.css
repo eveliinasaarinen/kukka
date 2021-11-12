@@ -12,6 +12,9 @@ header {
     border-style: double;
     border-color: black;
 }
+.p {
+    color: white;
+}
 h2 {
     color: white;
 }
