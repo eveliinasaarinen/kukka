@@ -34,5 +34,7 @@ header {
       background-size: 700px;
       background-repeat: no-repeat;
       padding: 40px;
-      text-align: center;
+}
+a:hover{
+    color: rgb(255, 0, 0);
 }
