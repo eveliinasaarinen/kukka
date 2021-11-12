@@ -1,6 +1,5 @@
 body {
     background-color: black;
-    text-align: center;
     color: white
 }
 header {
@@ -13,11 +12,15 @@ header {
     border-style: double;
     border-color: black;
 }
+h2 {
+    color: white;
+}
 #example1 {
     border: 1px solid;
     padding: 20px;
     box-shadow: 5px 15px;
     color: rgb(238, 81, 107)
+    
   }
   #example2 {
     border: 1px solid;
