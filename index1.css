@@ -47,5 +47,5 @@ button:hover{
 }
 div {
     text-align: center;
-    left: 20%;
+    nav-left: initial;
 }
