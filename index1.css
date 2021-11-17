@@ -48,3 +48,7 @@ button:hover{
 div {
     text-align: center;   
 }
+img {
+    float:right
+    size: 350px
+}
