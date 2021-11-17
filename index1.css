@@ -61,3 +61,6 @@ img {
     clear: both;
     display: table;
   }
+  article {
+      text-align: center;
+  }
