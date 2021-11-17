@@ -61,6 +61,10 @@ img {
     clear: both;
     display: table;
   }
-  article {
-      text-align: center;
-  }
+  aside, article{
+    min-height: 550px;
+    outline:#000 dotted;
+   }   
+    article{
+    width:750px;
+   }
