@@ -45,3 +45,16 @@ button {
 button:hover{
 	cursor: pointer;
 }
+nav {
+    float: left;
+    width: 20%;
+    height: 270px;
+    background-color: rgb(255, 160, 215);
+    padding: 20px;
+    border-color: black;
+}
+article {
+    float: middle;
+    background-color: rgb(255, 160, 215);
+    border-color: black;
+}
