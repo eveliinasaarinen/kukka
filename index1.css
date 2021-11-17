@@ -51,10 +51,13 @@ div {
 img {
     size: 300px;
 }
-.placeholder-img {
-    width: 100px;
-	height: 100px;
-	margin: 0 20px 0 20px;
-	background: #d6d6d8;
-	border: 1px solid black;
-}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
