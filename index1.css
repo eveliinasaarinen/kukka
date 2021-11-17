@@ -46,6 +46,5 @@ button:hover{
 	cursor: pointer;
 }
 div {
-    text-align: center;
-    padding-left: 50px;
+    text-align: right;   
 }
