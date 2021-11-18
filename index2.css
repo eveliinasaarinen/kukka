@@ -61,7 +61,7 @@ article {
     border-style: double;
     border-color: black;
 }
-label {
+form {
     color: rgb(255, 0, 191);
     float: right;
 }
