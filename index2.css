@@ -67,6 +67,6 @@ form {
 }
 img {
     size: 100px;
-    float: right;
+    float: left;
     border-radius: 50%;
 }
