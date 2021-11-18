@@ -63,4 +63,5 @@ article {
 }
 label {
     color: rgb(255, 0, 191);
+    float: right;
 }
