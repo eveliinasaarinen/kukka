@@ -61,3 +61,6 @@ article {
     border-style: double;
     border-color: black;
 }
+label {
+    color: rgb(255, 0, 191);
+}
