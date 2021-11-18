@@ -46,7 +46,7 @@ button:hover{
 	cursor: pointer;
 }
 section {
-    float: left;
+    float: right;
     width: 20%;
     height: 270px;
     background-color: rgb(255, 160, 215);
