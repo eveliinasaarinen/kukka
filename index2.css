@@ -60,10 +60,10 @@ article {
     height: 900px;
     background-color: rgb(255, 255, 255);
     border-style: double;
-    border-color: black;
+    border-color: rgb(255, 44, 150);
 }
 form {
-    color: rgb(255, 0, 191);
+    color: rgb(255, 44, 150);
     float: left;
 }
 img {
