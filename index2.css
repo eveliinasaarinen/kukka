@@ -46,7 +46,7 @@ button:hover{
 	cursor: pointer;
 }
 section {
-    float: center;
+    float: right;
     width: 40%;
     height: 270px;
     background-color: rgb(255, 212, 237);
@@ -55,7 +55,7 @@ section {
     border-color: black;
 }
 article {
-    float: center;
+    float: right;
     width: 40%;
     background-color: rgb(255, 212, 237);
     border-style: double;
@@ -63,5 +63,5 @@ article {
 }
 form {
     color: rgb(255, 0, 191);
-    float: right;
+    float: left;
 }
