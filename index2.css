@@ -48,8 +48,8 @@ button:hover{
 section {
     float: right;
     width: 30%;
-    height: 500px;
-    background-color: rgb(255, 212, 237);
+    height: 900px;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
     border-style: double;
     border-color: black;
@@ -57,8 +57,8 @@ section {
 article {
     float: right;
     width: 30%;
-    height: 500px;
-    background-color: rgb(255, 212, 237);
+    height: 900px;
+    background-color: rgb(255, 255, 255);
     border-style: double;
     border-color: black;
 }
