@@ -47,7 +47,7 @@ button:hover{
 }
 section {
     float: right;
-    width: 20%;
+    width: 30%;
     height: 270px;
     background-color: rgb(255, 212, 237);
     padding: 20px;
@@ -56,7 +56,7 @@ section {
 }
 article {
     float: right;
-    width: 20%;
+    width: 30%;
     background-color: rgb(255, 212, 237);
     border-style: double;
     border-color: black;
