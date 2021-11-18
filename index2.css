@@ -68,4 +68,5 @@ form {
 img {
     size: 100px;
     float: right;
+    border-radius: 50%;
 }
