@@ -65,3 +65,6 @@ form {
     color: rgb(255, 0, 191);
     float: left;
 }
+img {
+    size: 300px;
+}
