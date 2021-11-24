@@ -31,6 +31,7 @@ img {
 section {
     float: right;
     width: 50%;
+    height: 900px;
     background-color: rgb(255, 196, 196);
     border-color: rgb(255, 255, 255);
 }
