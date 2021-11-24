@@ -32,5 +32,6 @@ section {
     float: right;
     width: 50%;
     background-color: rgb(255, 196, 196);
+    border-color: rgb(255, 255, 255);
 }
 
