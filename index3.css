@@ -23,8 +23,8 @@ header .overlay{
 img {
     border-bottom-style: dotted;
     border-color: rgb(215, 253, 75);
-    border-radius: 70%;
-    size: 100px;
+    border-radius: 50%;
+    size: 60px;
     float: center;
     align: center;
 }
