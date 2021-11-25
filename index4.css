@@ -43,3 +43,10 @@ button {
 button:hover{
 	cursor: pointer;
 }
+.Dino {
+    background-color: rgb(255, 197, 241);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+  }
