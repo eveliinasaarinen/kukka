@@ -50,6 +50,7 @@ div {
 }
 img {
     size: 300px;
+	height:100px
 }
 .column {
     float: left;
